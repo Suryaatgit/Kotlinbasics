@@ -1,3 +1,3 @@
 # Kotlinbasics
 
-My first Kotlin program
+My first Kotlin program - Basics of Kotlin
